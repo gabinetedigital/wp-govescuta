@@ -23,6 +23,11 @@ $meta_boxes_govescuta[] = array(
 						'std'		=> 'n'
 				),
 				array(
+						'name' 		=> 'Imagem da audiência',
+						'id' 		=> $prefix . 'imagem_govesc',
+						'type'	 	=> 'image'
+				),
+				array(
 						'name' 		=> 'Mais detalhes sobre a audiência',
 						'id' 		=> $prefix . 'detalhes_govesc',
 						'type'	 	=> 'wysiwyg'

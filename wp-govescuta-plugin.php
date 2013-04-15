@@ -32,6 +32,7 @@ define('WPGOVE_TYPE_POST_campo4','wp_govescuta_video_embed');
 define('WPGOVE_TYPE_POST_campo5','wp_govescuta_visivel');
 define('WPGOVE_TYPE_POST_campo6','wp_govescuta_hashtags_audiencia');
 define('WPGOVE_TYPE_POST_campo7','wp_govescuta_video');
+define('WPGOVE_TYPE_POST_campo8','wp_govescuta_imagem_govesc');
 
 define('WPGOVE_RESULTS_PER_PAGE', 10);
 
