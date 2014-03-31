@@ -36,8 +36,7 @@ $meta_boxes_govescuta[] = array(
 						'name'		=> 'Quando acontece',
 						'id'		=> $prefix . 'data_govesc',
 						'desc'		=> 'Data da audiência do Governo Escuta.',
-						'type'		=> 'datetime',
-						'format'	=> 'hh:mm'
+						'type'		=> 'datetime'
 				),
 				array(
 						'name'		=> 'Embed',
